@@ -1,4 +1,4 @@
-# MXtrodes-2021
+# MXtrodes: MXene-infused bioelectronic interfaces for multiscale electrophysiology and stimulation
 
 This repository contains code to reproduce the analysis and figures fully reported in Driscoll et al. *Sci. Transl. Med.* 2021. In order to reproduce figures and analysis, you will need to 
 
